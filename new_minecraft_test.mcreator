@@ -101,7 +101,12 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "apis",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "new_minecraft_test",
