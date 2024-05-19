@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "new_minecraft_test:yomamaman_hair"
+    },
+    {
+      "item": "new_minecraft_test:yomamaman_hair"
+    },
+    {
+      "item": "new_minecraft_test:yomamaman_hair"
+    },
+    {
+      "item": "new_minecraft_test:yomamaman_hair"
+    },
+    {
+      "item": "new_minecraft_test:yomamaman_hair"
+    },
+    {
+      "item": "new_minecraft_test:yomamaman_hair"
+    },
+    {
+      "item": "new_minecraft_test:yomamaman_hair"
+    },
+    {
+      "item": "new_minecraft_test:yomamaman_hair"
+    },
+    {
+      "item": "new_minecraft_test:yomamaman_hair"
+    }
+  ],
+  "result": {
+    "item": "new_minecraft_test:cr",
+    "count": 1
+  }
+}
