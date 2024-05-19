@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "new_minecraft_test:block/yourmom_planks"
+  },
+  "render_type": "solid"
+}

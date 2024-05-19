@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "new_minecraft_test:block/yourmom_log_top",
+    "up": "new_minecraft_test:block/yourmom_log_top",
+    "north": "new_minecraft_test:block/yourmom_log_side",
+    "east": "new_minecraft_test:block/yourmom_log_side",
+    "south": "new_minecraft_test:block/yourmom_log_side",
+    "west": "new_minecraft_test:block/yourmom_log_side",
+    "particle": "new_minecraft_test:block/yourmom_log_top"
+  },
+  "render_type": "solid"
+}

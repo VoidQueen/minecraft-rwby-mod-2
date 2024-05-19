@@ -1,1 +1,12 @@
-{}
+{
+  "block.new_minecraft_test.your_mom_wood": "YourMom Wood",
+  "block.new_minecraft_test.your_mom_slab": "YourMom Slab",
+  "block.new_minecraft_test.your_mom_stairs": "YourMom Stairs",
+  "block.new_minecraft_test.your_mom_pressure_plate": "YourMom Pressure Plate",
+  "block.new_minecraft_test.your_mom_planks": "YourMom Planks",
+  "block.new_minecraft_test.your_mom_fence_gate": "YourMom Fence Gate",
+  "block.new_minecraft_test.your_mom_fence": "YourMom Fence",
+  "block.new_minecraft_test.your_mom_log": "YourMom Log",
+  "block.new_minecraft_test.your_mom_leaves": "YourMom Leaves",
+  "block.new_minecraft_test.your_mom_button": "YourMom Button"
+}

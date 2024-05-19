@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "new_minecraft_test:your_mom_planks"
+    }
+  },
+  "result": {
+    "item": "new_minecraft_test:your_mom_slab",
+    "count": 6
+  }
+}

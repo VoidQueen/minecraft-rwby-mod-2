@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "new_minecraft_test:block/your_mom_pressure_plate"
+    },
+    "powered=true": {
+      "model": "new_minecraft_test:block/your_mom_pressure_plate_down"
+    }
+  }
+}
