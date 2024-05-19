@@ -23,7 +23,7 @@ public class CrgunItem extends Item {
 
 	@Override
 	public UseAnim getUseAnimation(ItemStack itemstack) {
-		return UseAnim.BOW;
+		return UseAnim.CROSSBOW;
 	}
 
 	@Override

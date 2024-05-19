@@ -4,11 +4,11 @@
   "definition": {
     "renderType": 0,
     "texture": "sprite-0001",
-    "customModelName": "Tool",
+    "customModelName": "Normal",
     "customProperties": {},
     "states": [],
     "name": "CR",
-    "rarity": "COMMON",
+    "rarity": "EPIC",
     "creativeTab": {
       "value": "COMBAT"
     },
@@ -25,7 +25,7 @@
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "enableMeleeDamage": true,
-    "damageVsEntity": 5.0,
+    "damageVsEntity": 10.0,
     "specialInformation": {
       "fixedValue": [
         "tis alspo gun"
@@ -50,6 +50,6 @@
     },
     "isMeat": false,
     "isAlwaysEdible": false,
-    "animation": "eat"
+    "animation": "none"
   }
 }
