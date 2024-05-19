@@ -24,7 +24,6 @@ public class NewMinecraftTestModTabs {
 		if (tabData.getTabKey() == CreativeModeTabs.COMBAT) {
 			tabData.accept(NewMinecraftTestModItems.CR.get());
 			tabData.accept(NewMinecraftTestModItems.BOOLETITEM.get());
-			tabData.accept(NewMinecraftTestModItems.YOMAMAMAN_HAIR.get());
 		}
 	}
 }

@@ -86,33 +86,6 @@
           "src/main/java/net/mcreator/newminecrafttest/entity/BooletEntity.java"
         ]
       }
-    },
-    {
-      "name": "YomamamanHair",
-      "type": "item",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "yomamaman_hair",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/new_minecraft_test/models/item/yomamaman_hair.json",
-          "src/main/java/net/mcreator/newminecrafttest/item/YomamamanHairItem.java"
-        ]
-      }
-    },
-    {
-      "name": "Dont",
-      "type": "recipe",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dont",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/new_minecraft_test/recipes/dont.json"
-        ]
-      }
     }
   ],
   "variable_elements": [],
@@ -123,7 +96,6 @@
       "item.new_minecraft_test.cr": "CR",
       "item.new_minecraft_test.booletitem": "Boolet",
       "item.new_minecraft_test.crgun": "Crgun",
-      "item.new_minecraft_test.yomamaman_hair": "Yo mama man Hair",
       "key.new_minecraft_test.transform": "Transform weapon"
     }
   },
