@@ -3,6 +3,7 @@
     {
       "name": "CR",
       "type": "item",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cr",
@@ -12,6 +13,52 @@
           "src/main/java/net/mcreator/newminecrafttest/item/CRItem.java"
         ]
       }
+    },
+    {
+      "name": "TransformOnKeyPressed",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "transform_on_key_pressed",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/newminecrafttest/procedures/TransformOnKeyPressedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crgun",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crgun",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/new_minecraft_test/models/item/crgun.json",
+          "src/main/java/net/mcreator/newminecrafttest/item/CrgunItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Transform",
+      "type": "keybind",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "transform",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/newminecrafttest/network/TransformMessage.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -19,7 +66,9 @@
   "tag_elements": {},
   "language_map": {
     "en_us": {
-      "item.new_minecraft_test.cr": "CR"
+      "item.new_minecraft_test.cr": "CR",
+      "item.new_minecraft_test.crgun": "Crgun",
+      "key.new_minecraft_test.transform": "Transform weapon"
     }
   },
   "foldersRoot": {
