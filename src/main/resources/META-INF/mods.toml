@@ -20,5 +20,11 @@ authors="kirby, MCreator"
     ordering="NONE"
     side="BOTH"
 
+[[dependencies.new_minecraft_test]]
+    modId="miapi"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 
 
