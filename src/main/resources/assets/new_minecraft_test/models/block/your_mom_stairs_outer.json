@@ -1,9 +1,0 @@
-{
-  "parent": "block/outer_stairs",
-  "textures": {
-    "bottom": "new_minecraft_test:block/yourmom_planks",
-    "top": "new_minecraft_test:block/yourmom_planks",
-    "side": "new_minecraft_test:block/yourmom_planks"
-  },
-  "render_type": "solid"
-}

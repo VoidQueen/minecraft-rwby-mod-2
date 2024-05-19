@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "new_minecraft_test:block/yourmom_log_side",
-    "particle": "new_minecraft_test:block/yourmom_log_side"
-  },
-  "render_type": "solid"
-}

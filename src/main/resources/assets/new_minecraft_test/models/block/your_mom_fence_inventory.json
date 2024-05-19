@@ -1,8 +1,0 @@
-{
-  "parent": "block/fence_inventory",
-  "textures": {
-    "texture": "new_minecraft_test:block/yourmom_planks",
-    "particle": "new_minecraft_test:block/yourmom_planks"
-  },
-  "render_type": "solid"
-}

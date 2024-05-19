@@ -17,10 +17,6 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
-import net.mcreator.newminecrafttest.init.NewMinecraftTestModTabs;
-import net.mcreator.newminecrafttest.init.NewMinecraftTestModItems;
-import net.mcreator.newminecrafttest.init.NewMinecraftTestModBlocks;
-
 import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
@@ -40,12 +36,6 @@ public class NewMinecraftTestMod {
 		// End of user code block mod constructor
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-
-		NewMinecraftTestModBlocks.REGISTRY.register(bus);
-
-		NewMinecraftTestModItems.REGISTRY.register(bus);
-
-		NewMinecraftTestModTabs.REGISTRY.register(bus);
 
 		// Start of user code block mod init
 		// End of user code block mod init

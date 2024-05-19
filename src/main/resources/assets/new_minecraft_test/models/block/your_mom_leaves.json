@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "new_minecraft_test:block/yourmom_leaves",
-    "particle": "new_minecraft_test:block/yourmom_leaves"
-  }
-}

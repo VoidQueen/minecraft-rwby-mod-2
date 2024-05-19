@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "new_minecraft_test:block/yourmom_planks",
-    "particle": "new_minecraft_test:block/yourmom_planks"
-  },
-  "render_type": "solid"
-}
