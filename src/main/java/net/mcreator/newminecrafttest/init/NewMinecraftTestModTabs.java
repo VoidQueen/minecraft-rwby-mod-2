@@ -23,6 +23,7 @@ public class NewMinecraftTestModTabs {
 	public static void buildTabContentsVanilla(BuildCreativeModeTabContentsEvent tabData) {
 		if (tabData.getTabKey() == CreativeModeTabs.COMBAT) {
 			tabData.accept(NewMinecraftTestModItems.CR.get());
+			tabData.accept(NewMinecraftTestModItems.BOOLETITEM.get());
 		}
 	}
 }

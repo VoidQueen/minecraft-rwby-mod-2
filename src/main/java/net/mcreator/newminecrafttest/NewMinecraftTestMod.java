@@ -19,6 +19,7 @@ import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.newminecrafttest.init.NewMinecraftTestModTabs;
 import net.mcreator.newminecrafttest.init.NewMinecraftTestModItems;
+import net.mcreator.newminecrafttest.init.NewMinecraftTestModEntities;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -41,6 +42,7 @@ public class NewMinecraftTestMod {
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
 		NewMinecraftTestModItems.REGISTRY.register(bus);
+		NewMinecraftTestModEntities.REGISTRY.register(bus);
 
 		NewMinecraftTestModTabs.REGISTRY.register(bus);
 

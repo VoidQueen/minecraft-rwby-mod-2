@@ -59,6 +59,33 @@
           "src/main/java/net/mcreator/newminecrafttest/network/TransformMessage.java"
         ]
       }
+    },
+    {
+      "name": "Booletitem",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "booletitem",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/newminecrafttest/item/BooletitemItem.java",
+          "src/main/resources/assets/new_minecraft_test/models/item/booletitem.json"
+        ]
+      }
+    },
+    {
+      "name": "Boolet",
+      "type": "projectile",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boolet",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/newminecrafttest/entity/BooletEntity.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -67,6 +94,7 @@
   "language_map": {
     "en_us": {
       "item.new_minecraft_test.cr": "CR",
+      "item.new_minecraft_test.booletitem": "Boolet",
       "item.new_minecraft_test.crgun": "Crgun",
       "key.new_minecraft_test.transform": "Transform weapon"
     }

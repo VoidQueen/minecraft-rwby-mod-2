@@ -4,7 +4,7 @@
   "definition": {
     "renderType": 0,
     "texture": "sprite-0001",
-    "customModelName": "Ranged item",
+    "customModelName": "Tool",
     "customProperties": {},
     "states": [],
     "name": "CR",
@@ -37,7 +37,7 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 1,
-    "enableRanged": true,
+    "enableRanged": false,
     "shootConstantly": false,
     "projectile": {
       "value": "SpectralArrow"

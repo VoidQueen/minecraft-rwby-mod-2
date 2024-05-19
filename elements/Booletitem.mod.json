@@ -3,18 +3,18 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "sprite-0002",
-    "customModelName": "Ranged item",
+    "texture": "sprite-0003",
+    "customModelName": "Normal",
     "customProperties": {},
     "states": [],
-    "name": "Crgun",
+    "name": "Boolet",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "No creative tab entry"
+      "value": "COMBAT"
     },
     "stackSize": 64,
     "enchantability": 0,
-    "useDuration": 72000,
+    "useDuration": 0,
     "toolType": 1.0,
     "damageCount": 0,
     "recipeRemainder": {
@@ -35,10 +35,10 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
-    "enableRanged": true,
+    "enableRanged": false,
     "shootConstantly": false,
     "projectile": {
-      "value": "CUSTOM:Boolet"
+      "value": "Arrow"
     },
     "isFood": false,
     "nutritionalValue": 4,
@@ -48,6 +48,6 @@
     },
     "isMeat": false,
     "isAlwaysEdible": false,
-    "animation": "bow"
+    "animation": "none"
   }
 }
