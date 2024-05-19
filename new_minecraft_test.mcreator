@@ -1,10 +1,26 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "CR",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cr",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/new_minecraft_test/models/item/cr.json",
+          "src/main/java/net/mcreator/newminecrafttest/item/CRItem.java"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.new_minecraft_test.cr": "CR"
+    }
   },
   "foldersRoot": {
     "name": "~",
