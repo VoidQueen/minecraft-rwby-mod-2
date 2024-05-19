@@ -116,9 +116,7 @@
     "websiteURL": "https://mcreator.net",
     "license": "Not specified",
     "serverSideOnly": false,
-    "requiredMods": [
-      "miapi"
-    ],
+    "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
